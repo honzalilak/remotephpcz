@@ -274,3 +274,7 @@ a {
 li {
   padding-bottom: 0.5em;
 }
+
+.small {
+  font-size: 75%;
+}
